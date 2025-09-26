@@ -1,0 +1,12 @@
+a=15
+b=4
+print("a=", a )
+print("b=", b )
+print("a + b =", a + b)# косу
+print("a - b =", a - b)# азайту
+print("a * b =", a * b)# кебейтy
+print("a * b =", a * b)# дережеге
+print("a / b -", a / b)# белу
+print("a // b -", a // b)# бутін
+print("a % b =", a % b)
+
